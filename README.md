@@ -44,6 +44,8 @@ After training, the model generates a graph showing **actual vs. predicted price
 ## Future Improvements
 - Implement additional technical indicators for better accuracy.
 - Experiment with **GRU or Transformer-based models**.
+
+USED
 - Optimize hyperparameters using **Grid Search or Bayesian Optimization**.
 - Deploy the model as an **API for real-time price prediction**.
 
