@@ -1,5 +1,5 @@
 # Cryptocurrency Price Prediction using LSTM
-
+ijk
 ## Overview
 This project implements a **Long Short-Term Memory (LSTM) neural network** to predict cryptocurrency prices based on historical data. The model is built using **TensorFlow/Keras**, processes data using **scikit-learn**, and visualizes results with **Matplotlib**.
 
